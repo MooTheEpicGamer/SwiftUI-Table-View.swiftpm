@@ -6,7 +6,7 @@ struct ContentView: View {
             Image(systemName: "Peter_Griffin")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("Ay Peeta")
         }
     }
 }
